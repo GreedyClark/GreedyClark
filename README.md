@@ -16,9 +16,14 @@ Family budget on Django and HTMX: Monobank webhook import, NBU exchange rates, T
 
 <a href="https://github.com/GreedyClark/cashflix"><img src="https://github.com/GreedyClark/cashflix/raw/main/docs/screenshots/overview.png" alt="CashFlix overview" width="720"></a>
 
+### [Fridge Recipe](https://github.com/GreedyClark/Fridge_Recipe_App) · [live demo](https://peangqin.pythonanywhere.com)
+
+Django app that tracks what's in the fridge and suggests recipes you can cook from it. Cooking writes the ingredients off and logs calories from USDA data, missing products go to a shared family shopping list. Gemini parses recipes from any page or pasted text.
+
+<a href="https://github.com/GreedyClark/Fridge_Recipe_App"><img src="https://github.com/GreedyClark/Fridge_Recipe_App/raw/main/docs/cover.png" alt="Fridge Recipe" width="720"></a>
+
 ### More projects
 
-- [Fridge Recipe](https://github.com/GreedyClark/Fridge_Recipe_App) · [live demo](https://peangqin.pythonanywhere.com): tracks what's in the fridge and suggests recipes. Gemini parses recipes from a link, calories come from USDA.
 - [Currency Bot](https://github.com/GreedyClark/currency-bot): NBU exchange rates, converter, rate alerts and charts on aiogram 3 and APScheduler.
 
 I write code together with AI assistants and review every change before it goes into a commit.
