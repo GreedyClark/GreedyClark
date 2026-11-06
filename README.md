@@ -1,4 +1,4 @@
-### Hi, I'm a Junior Python Developer from Kyiv
+### Hi, I'm a Junior Python Developer
 
 I build Django web apps and Telegram bots that talk to external APIs and LLMs. Before switching to development I spent 9 years in IT support and administration. I hold a BSc in Cybersecurity and an MSc in Computer Science.
 
